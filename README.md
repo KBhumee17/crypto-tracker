@@ -20,6 +20,7 @@ Main files: App.js, index.js, App.css
 
 Setup Instructions:
 Clone the repo: git clone https://github.com/KBhumee17/crypto-tracker.git
+
 Navigate: cd crypto-tracker
 Install dependencies: npm install
 Start server: npm start
