@@ -1,2 +1,5 @@
-# crypto-tracker
-A minimal React + Redux crypto dashboard that displays top cryptocurrency prices, market stats, and logos—built for learning and quick deployment.
+<<<<<<< HEAD
+Your local changes here.
+=======
+Changes from the remote branch here.
+>>>>>>> e6c5c73... Initialize project using Create React App
